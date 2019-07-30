@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This is final look of calculator
+
+![calculator](https://user-images.githubusercontent.com/35704809/62118705-963fff00-b2d7-11e9-9edd-382e948b8f56.png)
+
+
 In the project directory, you can run:
 
 ### `npm start`
